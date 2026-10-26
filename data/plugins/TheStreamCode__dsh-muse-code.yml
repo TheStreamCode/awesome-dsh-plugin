@@ -1,0 +1,5 @@
+url: https://github.com/TheStreamCode/dsh-muse-code
+name: TheStreamCode/dsh-muse-code
+category: model
+description:
+  en: 'Adds Meta''s Muse Code subscription as a DSH model provider: the bundle declares the shipped Meta route under Settings > Models, syncs the account chat catalog (Muse Wonder included) into the model picker, and adds a Sign in card plus the /muse-login command that run DSH''s built-in Meta device-code flow, keep the minted key renewed, and show a red or green credential dot. Needs an active Muse Code subscription and no Meta CLI.'
